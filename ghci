@@ -1,0 +1,3 @@
+#!/bin/bash
+
+ghci -L./rust-lib/target/release -lrust_lib
