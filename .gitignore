@@ -1,3 +1,7 @@
 /#%20markdown-code-fontification%3Ahaskell-mode#s20cur#
 /Lib.hs~
 /ghci~
+/rust-lib/Cargo.lock
+/rust-lib/Cargo.toml~
+/rust-lib/src/lib.rs~
+/rust-lib/target/
